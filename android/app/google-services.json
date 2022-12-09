@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446173681916",
+    "project_id": "simp-e2046",
+    "storage_bucket": "simp-e2046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446173681916:android:68d0ed17e7603bae245f79",
+        "android_client_info": {
+          "package_name": "com.example.simp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446173681916-sulp6qbpr37a6ntf95eteoo88q732d95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQMoqOQNNwsdPxaTmqkZtqzaWYHE5oi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446173681916-sulp6qbpr37a6ntf95eteoo88q732d95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
